@@ -1,0 +1,1 @@
+Extract Name , Age, Gender, Contact Number, Email, Degree, Criminal Records and give me an answer where every information is separated by |
